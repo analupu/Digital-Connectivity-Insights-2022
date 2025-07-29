@@ -1,6 +1,6 @@
 Digital Connectivity Insights 2022
 
-An end-to-end data analysis and machine learning project to explore and predict global Internet connectivity in 2022 using Python, Stresmlit, and various data visualization techniques.
+An end-to-end data analysis and machine learning project to explore and predict global Internet connectivity in 2022 using Python, Streamlit, and various data visualization techniques.
 
 **Project Overview**
 
