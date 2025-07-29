@@ -90,6 +90,7 @@ st.write(f"**MAE (Mean Absolute Error):** {mae:.2f}")
 st.write(f"**MSE (Mean Squared Error):** {mse:.2f}")
 st.write(f"**R² Score:** {r2:.4f}")
 
+
 st.subheader("📉 Comparație: valori reale vs. predicții")
 st.line_chart(st.session_state.lr_predictions.reset_index(drop=True))
 
